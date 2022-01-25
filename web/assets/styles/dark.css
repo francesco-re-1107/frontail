@@ -2,7 +2,7 @@
 
 body {
   padding-top: 4em;
-  background-color: #2f3238;
+  background-color: #1E1E1E;
 }
 
 .no-topbar {
@@ -20,26 +20,26 @@ body {
 }
 
 .btn-pause {
-    background: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' fill='%237f8289' viewBox='0 0 8 8'><path d='M1 1v6h2v-6h-2zm4 0v6h2v-6h-2z'></path></svg>") no-repeat center center;
-    background-color: #2f3238;
+    background: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' fill='%23c0c0c0' viewBox='0 0 8 8'><path d='M1 1v6h2v-6h-2zm4 0v6h2v-6h-2z'></path></svg>") no-repeat center center;
+    background-color: #1E1E1E;
     border: 1px solid transparent;
 }
 
 .btn-pause.play {
-    background: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' fill='%237f8289' viewBox='0 0 8 8'><path d='M1 1v6l6-3-6-3z'></path></svg>") no-repeat center center;
-    background-color: #2f3238;
+    background: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' fill='%23c0c0c0' viewBox='0 0 8 8'><path d='M1 1v6l6-3-6-3z'></path></svg>") no-repeat center center;
+    background-color: #1E1E1E;
 }
 
 .form-control {
   border: 0;
-  color: #7f8289;
-  background-color: #2f3238;
+  color: #c0c0c0;
+  background-color: #1E1E1E;
 }
 
 .log {
   white-space: pre-wrap;
-  color: #7f8289;
-  font-size: 0.85em;
+  color: #c0c0c0;
+  font-size: 1.15em;
   background: inherit;
   border: 0;
   padding: 0;
@@ -63,5 +63,5 @@ body {
 }
 
 .log .line-selected {
-  background-color: #302436;
+  background-color: #252525;
 }

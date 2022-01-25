@@ -1,12 +1,13 @@
 {
   "words": {
-    "TODO": "color: purple"
+    "CRITICAL": "color: red;",
+    "ERROR": "color: red;",
+    "WARNING": "color: yellow;",
+    "INFO": "color: #72d4d4;",
+    "DEBUG": "color: white;"
   },
   "lines": {
-    "CRITICAL": "color: Red; font-weight: bold",
-    "ERROR": "color: Crimson; font-weight: bold",
-    "WARN": "color: Orange; font-style: italic",
-    "INFO": "color: DeepSkyBlue;",
-    "DEBUG": "color: LightGrey;"
+    "CRITICAL": "font-weight: bold; color: red;",
+    "ERROR": "font-weight: bold;",
   }
 }
