@@ -1,0 +1,10 @@
+{
+    "words": {
+      "ERR": "color: red;",
+      "WRN": "color: yellow;",
+      "INF": "color: #72d4d4;"
+    },
+    "lines": {
+      "ERR": "font-weight: bold;"
+    }
+  }

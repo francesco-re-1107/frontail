@@ -8,6 +8,6 @@
   },
   "lines": {
     "CRITICAL": "font-weight: bold; color: red;",
-    "ERROR": "font-weight: bold;",
+    "ERROR": "font-weight: bold;"
   }
 }
